@@ -1,3 +1,7 @@
+![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+
+
 # Weather & Activities App 🌤️
 
 ## Overview
