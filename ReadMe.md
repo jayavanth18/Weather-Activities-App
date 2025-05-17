@@ -4,7 +4,7 @@
 
 # Weather & Activities App 🌤️
 
-#### Video Demo:  [https://youtu.be/h_1Ll4w68Gs](https://youtu.be/h_1Ll4w68Gs)
+#### Video Demo:  [Watch the Demo](https://youtu.be/h_1Ll4w68Gs)
 
 #### Description:
 The Weather & Activities App is a Python-based command-line tool that helps users check current weather and receive personalized activity suggestions based on real-time conditions. By entering a city name, the app fetches weather data using the Open-Meteo API and approximates the local time using a simple mathematical formula derived from longitude. This makes it easy for users anywhere in the world to stay informed and entertained.
