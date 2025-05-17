@@ -4,12 +4,14 @@
 
 # Weather & Activities App 🌤️
 
-## Overview
-This Python app allows users to:
-- Enter a city name
-- View current weather (using Open-Meteo API)
-- See local time (approximated by longitude)
-- Get personalized activity suggestions based on the weather
+#### Video Demo:  [https://youtu.be/h_1Ll4w68Gs](https://youtu.be/h_1Ll4w68Gs)
+
+#### Description:
+The Weather & Activities App is a Python-based command-line tool that helps users check current weather and receive personalized activity suggestions based on real-time conditions. By entering a city name, the app fetches weather data using the Open-Meteo API and approximates the local time using a simple mathematical formula derived from longitude. This makes it easy for users anywhere in the world to stay informed and entertained.
+
+This project helped me gain hands-on experience working with REST APIs, parsing JSON data, writing modular functions, and designing a user-friendly CLI application. It also introduced me to basic time zone calculations and error handling techniques for real-world scenarios like timeouts or API failures.
+
+The app is designed to be both lightweight and educational — perfect for Python beginners or anyone interested in combining weather data with personalized activity recommendations. It’s also structured for testability and clarity, making it a solid example of beginner-to-intermediate Python programming.
 
 ## Features
 - Uses Open-Meteo's Geocoding & Weather APIs
@@ -25,3 +27,5 @@ This Python app allows users to:
 ## How to Run
 1. Install dependencies:
    pip install -r requirements.txt
+2. Run the app:
+   python project.py
