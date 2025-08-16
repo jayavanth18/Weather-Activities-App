@@ -118,5 +118,3 @@ This project is licensed under the **MIT License** – see the [LICENSE](LICENSE
 </div>  
 
 ---
-
-Do you want me to also add a **sample input/output example** (like `"City: London → Weather: Rainy → Suggested Activity: Read a Book"`) to make it more beginner-friendly?
